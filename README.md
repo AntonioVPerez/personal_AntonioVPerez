@@ -1,5 +1,5 @@
 ### Hello there 👋 Im Antonio
-### - 🔭 I’m currently working on my aerospace engineering degreee
+### - 🔭 I’m currently working on my aerospace engineering degree
 ### - 🌱 I’m currently learning python code in Aere 361
 ### - 👯 I’m looking to collaborate on coding and aerospace projects
 ### - 🤔 I’m looking for help with GitHub
@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my aerospace engineering degreee
+- 🔭 I’m currently working on my aerospace engineering degree
 - 🌱 I’m currently learning python code in Aere 361
 - 👯 I’m looking to collaborate on coding and aerospace projects
 - 🤔 I’m looking for help with GitHub
